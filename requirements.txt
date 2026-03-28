@@ -13,3 +13,7 @@ plotly
 PyPDF2
 langchain
 huggingface_hub
+streamlit
+matplotlib
+numpy
+groq==0.4.1
