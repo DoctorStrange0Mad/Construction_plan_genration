@@ -1,0 +1,14 @@
+streamlit
+matplotlib
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+pandas
+numpy
+scikit-learn
+plotly
+PyPDF2
+langchain
+huggingface_hub
